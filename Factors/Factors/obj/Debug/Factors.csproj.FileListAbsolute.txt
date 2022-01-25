@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Factors\Factors\bin\Debug\Factors.exe.config
+C:\Users\dhwaj\source\repos\Factors\Factors\bin\Debug\Factors.exe
+C:\Users\dhwaj\source\repos\Factors\Factors\bin\Debug\Factors.pdb
+C:\Users\dhwaj\source\repos\Factors\Factors\obj\Debug\Factors.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Factors\Factors\obj\Debug\Factors.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Factors\Factors\obj\Debug\Factors.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Factors\Factors\obj\Debug\Factors.exe
+C:\Users\dhwaj\source\repos\Factors\Factors\obj\Debug\Factors.pdb

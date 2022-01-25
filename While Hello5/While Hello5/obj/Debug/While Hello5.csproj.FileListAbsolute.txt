@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\bin\Debug\While Hello5.exe.config
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\bin\Debug\While Hello5.exe
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\bin\Debug\While Hello5.pdb
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\obj\Debug\While Hello5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\obj\Debug\While Hello5.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\obj\Debug\While Hello5.exe
+C:\Users\dhwaj\source\repos\While Hello5\While Hello5\obj\Debug\While Hello5.pdb

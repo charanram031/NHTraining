@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\bin\Debug\While Multiplication.exe.config
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\bin\Debug\While Multiplication.exe
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\bin\Debug\While Multiplication.pdb
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\obj\Debug\While Multiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\obj\Debug\While Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\obj\Debug\While Multiplication.exe
+C:\Users\dhwaj\source\repos\While Multiplication\While Multiplication\obj\Debug\While Multiplication.pdb

@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\bin\Debug\Sum of n nums.exe.config
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\bin\Debug\Sum of n nums.exe
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\bin\Debug\Sum of n nums.pdb
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\obj\Debug\Sum of n nums.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\obj\Debug\Sum of n nums.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\obj\Debug\Sum of n nums.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\obj\Debug\Sum of n nums.exe
+C:\Users\dhwaj\source\repos\Sum of n nums\Sum of n nums\obj\Debug\Sum of n nums.pdb
