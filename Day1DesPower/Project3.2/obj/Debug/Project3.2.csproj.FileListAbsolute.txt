@@ -1,0 +1,10 @@
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\bin\Debug\Project3.2.exe.config
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\bin\Debug\Project3.2.exe
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\bin\Debug\Project3.2.pdb
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3._2.Form1.resources
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3._2.Properties.Resources.resources
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3.2.csproj.GenerateResource.cache
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3.2.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3.2.exe
+C:\Users\dhwaj\source\repos\Project3.2\Project3.2\obj\Debug\Project3.2.pdb
