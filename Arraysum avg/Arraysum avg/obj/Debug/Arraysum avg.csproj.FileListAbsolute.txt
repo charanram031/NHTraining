@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\bin\Debug\Arraysum avg.exe.config
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\bin\Debug\Arraysum avg.exe
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\bin\Debug\Arraysum avg.pdb
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\obj\Debug\Arraysum avg.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\obj\Debug\Arraysum avg.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\obj\Debug\Arraysum avg.exe
+C:\Users\dhwaj\source\repos\Arraysum avg\Arraysum avg\obj\Debug\Arraysum avg.pdb

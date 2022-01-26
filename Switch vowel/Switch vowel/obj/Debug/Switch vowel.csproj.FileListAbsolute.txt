@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\bin\Debug\Switch vowel.exe.config
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\bin\Debug\Switch vowel.exe
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\bin\Debug\Switch vowel.pdb
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\obj\Debug\Switch vowel.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\obj\Debug\Switch vowel.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\obj\Debug\Switch vowel.exe
+C:\Users\dhwaj\source\repos\Switch vowel\Switch vowel\obj\Debug\Switch vowel.pdb

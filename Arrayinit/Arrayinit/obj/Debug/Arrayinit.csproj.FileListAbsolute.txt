@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\obj\Debug\Arrayinit.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\obj\Debug\Arrayinit.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\bin\Debug\Arrayinit.exe.config
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\bin\Debug\Arrayinit.exe
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\bin\Debug\Arrayinit.pdb
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\obj\Debug\Arrayinit.exe
+C:\Users\dhwaj\source\repos\Arrayinit\Arrayinit\obj\Debug\Arrayinit.pdb

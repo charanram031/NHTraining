@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e34577b0-4be5-4e4b-a038-300715950342": {
+      "ProjectGuid": "e34577b0-4be5-4e4b-a038-300715950342",
+      "DisplayName": "Switch vowel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

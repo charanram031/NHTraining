@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\bin\Debug\RcQuiz.exe.config
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\bin\Debug\RcQuiz.exe
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\bin\Debug\RcQuiz.pdb
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\obj\Debug\RcQuiz.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\obj\Debug\RcQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\obj\Debug\RcQuiz.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\obj\Debug\RcQuiz.exe
+C:\Users\dhwaj\source\repos\RcQuiz\RcQuiz\obj\Debug\RcQuiz.pdb

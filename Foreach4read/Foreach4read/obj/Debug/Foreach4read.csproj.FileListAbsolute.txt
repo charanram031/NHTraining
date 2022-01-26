@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\bin\Debug\Foreach4read.exe.config
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\bin\Debug\Foreach4read.exe
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\bin\Debug\Foreach4read.pdb
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\obj\Debug\Foreach4read.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\obj\Debug\Foreach4read.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\obj\Debug\Foreach4read.exe
+C:\Users\dhwaj\source\repos\Foreach4read\Foreach4read\obj\Debug\Foreach4read.pdb
