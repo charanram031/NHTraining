@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\bin\Debug\Digitsum.exe.config
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\bin\Debug\Digitsum.exe
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\bin\Debug\Digitsum.pdb
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\obj\Debug\Digitsum.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\obj\Debug\Digitsum.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\obj\Debug\Digitsum.exe
+C:\Users\dhwaj\source\repos\Digitsum\Digitsum\obj\Debug\Digitsum.pdb

@@ -11,9 +11,9 @@ namespace Project2
         static void Main(string[] args)
         {
             int fn, sn, p=1;
-            Console.WriteLine("enter number");
+            Console.WriteLine("enter number1");
             fn = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter number");
+            Console.WriteLine("enter number2");
             sn = Convert.ToInt32(Console.ReadLine());
             for(int i=1;i<=sn;i++)
             {

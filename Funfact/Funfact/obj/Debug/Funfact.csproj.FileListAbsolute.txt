@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Funfact\Funfact\obj\Debug\Funfact.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Funfact\Funfact\obj\Debug\Funfact.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Funfact\Funfact\obj\Debug\Funfact.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Funfact\Funfact\bin\Debug\Funfact.exe.config
+C:\Users\dhwaj\source\repos\Funfact\Funfact\bin\Debug\Funfact.exe
+C:\Users\dhwaj\source\repos\Funfact\Funfact\bin\Debug\Funfact.pdb
+C:\Users\dhwaj\source\repos\Funfact\Funfact\obj\Debug\Funfact.exe
+C:\Users\dhwaj\source\repos\Funfact\Funfact\obj\Debug\Funfact.pdb

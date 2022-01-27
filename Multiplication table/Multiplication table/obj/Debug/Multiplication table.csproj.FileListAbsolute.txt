@@ -5,3 +5,4 @@ C:\Users\dhwaj\source\repos\Multiplication table\Multiplication table\obj\Debug\
 C:\Users\dhwaj\source\repos\Multiplication table\Multiplication table\obj\Debug\Multiplication table.csproj.CoreCompileInputs.cache
 C:\Users\dhwaj\source\repos\Multiplication table\Multiplication table\obj\Debug\Multiplication table.exe
 C:\Users\dhwaj\source\repos\Multiplication table\Multiplication table\obj\Debug\Multiplication table.pdb
+C:\Users\dhwaj\source\repos\Multiplication table\Multiplication table\obj\Debug\Multiplication table.csproj.AssemblyReference.cache

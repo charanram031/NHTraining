@@ -20,10 +20,10 @@ namespace Multiplication_table
             {
                 Console.WriteLine(input + "x" + i + "=" + input * i);
             }
-            for (i = 1; i <= 10; i++)
+           /* for (i = 1; i <= 10; i++)
             {
                 Console.WriteLine("{0}x{1}={2}", input, i, input * i);
-            }
+            }*/
             Console.ReadLine();
         }
     }

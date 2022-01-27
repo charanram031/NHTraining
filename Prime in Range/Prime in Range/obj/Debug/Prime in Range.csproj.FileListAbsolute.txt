@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\bin\Debug\Prime in Range.exe.config
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\bin\Debug\Prime in Range.exe
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\bin\Debug\Prime in Range.pdb
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\obj\Debug\Prime in Range.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\obj\Debug\Prime in Range.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\obj\Debug\Prime in Range.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\obj\Debug\Prime in Range.exe
+C:\Users\dhwaj\source\repos\Prime in Range\Prime in Range\obj\Debug\Prime in Range.pdb

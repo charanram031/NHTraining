@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\bin\Debug\Arminrange.exe.config
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\bin\Debug\Arminrange.exe
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\bin\Debug\Arminrange.pdb
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\obj\Debug\Arminrange.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\obj\Debug\Arminrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\obj\Debug\Arminrange.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\obj\Debug\Arminrange.exe
+C:\Users\dhwaj\source\repos\Arminrange\Arminrange\obj\Debug\Arminrange.pdb

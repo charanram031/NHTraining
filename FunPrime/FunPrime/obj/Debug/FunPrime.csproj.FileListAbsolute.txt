@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\bin\Debug\FunPrime.exe.config
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\bin\Debug\FunPrime.exe
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\bin\Debug\FunPrime.pdb
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\obj\Debug\FunPrime.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\obj\Debug\FunPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\obj\Debug\FunPrime.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\obj\Debug\FunPrime.exe
+C:\Users\dhwaj\source\repos\FunPrime\FunPrime\obj\Debug\FunPrime.pdb

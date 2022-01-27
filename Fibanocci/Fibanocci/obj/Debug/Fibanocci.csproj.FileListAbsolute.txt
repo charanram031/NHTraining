@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\bin\Debug\Fibanocci.exe.config
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\bin\Debug\Fibanocci.exe
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\bin\Debug\Fibanocci.pdb
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\obj\Debug\Fibanocci.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\obj\Debug\Fibanocci.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\obj\Debug\Fibanocci.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\obj\Debug\Fibanocci.exe
+C:\Users\dhwaj\source\repos\Fibanocci\Fibanocci\obj\Debug\Fibanocci.pdb

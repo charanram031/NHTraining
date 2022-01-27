@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\dhwaj\source\repos\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\dhwaj\source\repos\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\dhwaj\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\dhwaj\source\repos\Patterns\Patterns\obj\Debug\Patterns.pdb

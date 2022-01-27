@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\bin\Debug\Armstrong.exe.config
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\obj\Debug\Armstrong.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\obj\Debug\Armstrong.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\obj\Debug\Armstrong.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\obj\Debug\Armstrong.exe
+C:\Users\dhwaj\source\repos\Armstrong\Armstrong\obj\Debug\Armstrong.pdb

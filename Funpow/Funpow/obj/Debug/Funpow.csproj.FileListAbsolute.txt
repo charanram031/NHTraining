@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Funpow\Funpow\bin\Debug\Funpow.exe.config
+C:\Users\dhwaj\source\repos\Funpow\Funpow\bin\Debug\Funpow.exe
+C:\Users\dhwaj\source\repos\Funpow\Funpow\bin\Debug\Funpow.pdb
+C:\Users\dhwaj\source\repos\Funpow\Funpow\obj\Debug\Funpow.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Funpow\Funpow\obj\Debug\Funpow.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Funpow\Funpow\obj\Debug\Funpow.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Funpow\Funpow\obj\Debug\Funpow.exe
+C:\Users\dhwaj\source\repos\Funpow\Funpow\obj\Debug\Funpow.pdb

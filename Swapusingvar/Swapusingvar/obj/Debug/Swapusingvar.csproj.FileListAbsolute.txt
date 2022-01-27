@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\bin\Debug\Swapusingvar.exe.config
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\bin\Debug\Swapusingvar.exe
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\bin\Debug\Swapusingvar.pdb
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\obj\Debug\Swapusingvar.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\obj\Debug\Swapusingvar.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\obj\Debug\Swapusingvar.exe
+C:\Users\dhwaj\source\repos\Swapusingvar\Swapusingvar\obj\Debug\Swapusingvar.pdb

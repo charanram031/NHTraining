@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16b7b410-ab79-4aec-87c7-fdc660617c84": {
+      "ProjectGuid": "16b7b410-ab79-4aec-87c7-fdc660617c84",
+      "DisplayName": "Armstrong",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

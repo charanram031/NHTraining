@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\bin\Debug\Reverse a num.exe.config
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\bin\Debug\Reverse a num.exe
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\bin\Debug\Reverse a num.pdb
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\obj\Debug\Reverse a num.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\obj\Debug\Reverse a num.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\obj\Debug\Reverse a num.exe
+C:\Users\dhwaj\source\repos\Reverse a num\Reverse a num\obj\Debug\Reverse a num.pdb

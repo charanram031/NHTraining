@@ -1,0 +1,7 @@
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\bin\Debug\Swapwithoutvar.exe.config
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\bin\Debug\Swapwithoutvar.exe
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\bin\Debug\Swapwithoutvar.pdb
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\obj\Debug\Swapwithoutvar.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\obj\Debug\Swapwithoutvar.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\obj\Debug\Swapwithoutvar.exe
+C:\Users\dhwaj\source\repos\Swapwithoutvar\Swapwithoutvar\obj\Debug\Swapwithoutvar.pdb
