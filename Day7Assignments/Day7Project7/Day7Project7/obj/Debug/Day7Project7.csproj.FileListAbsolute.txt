@@ -1,0 +1,8 @@
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\bin\Debug\Day7Project7.exe.config
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\bin\Debug\Day7Project7.exe
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\bin\Debug\Day7Project7.pdb
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\obj\Debug\Day7Project7.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\obj\Debug\Day7Project7.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\obj\Debug\Day7Project7.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\obj\Debug\Day7Project7.exe
+C:\Users\dhwaj\source\repos\Day7Project7\Day7Project7\obj\Debug\Day7Project7.pdb

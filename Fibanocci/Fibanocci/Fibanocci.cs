@@ -13,22 +13,22 @@ namespace Fibanocci
             int input;
             Console.WriteLine("Enter input");
             input=Convert.ToInt32(Console.ReadLine());
-            int next = 0;
+            int next = 1;
             int prev = 0;
-            for(int i=0;i<=input;i++)
+            for(int i=1;i<=input;i++)
             {
      
-                if(next==0)
+               if(next==0)
                 {
                     next = 1;
                 }
                 else
                 {
-                    int temp = next;
-                    next = next+prev;
-                    prev = temp;
+                    int temp = next+prev;
+                    prev = next;
+                    next = temp;
                 }
-                Console.WriteLine(next);
+                Console.WriteLine(prev);
             }
             Console.ReadLine();
         }
