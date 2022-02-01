@@ -5,3 +5,10 @@ C:\Users\dhwaj\source\repos\Day6Project4\Day6Project4\obj\Debug\Day6Project4.csp
 C:\Users\dhwaj\source\repos\Day6Project4\Day6Project4\obj\Debug\Day6Project4.csproj.CoreCompileInputs.cache
 C:\Users\dhwaj\source\repos\Day6Project4\Day6Project4\obj\Debug\Day6Project4.exe
 C:\Users\dhwaj\source\repos\Day6Project4\Day6Project4\obj\Debug\Day6Project4.pdb
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\bin\Debug\Day6Project4.exe.config
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\bin\Debug\Day6Project4.exe
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\bin\Debug\Day6Project4.pdb
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\obj\Debug\Day6Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\obj\Debug\Day6Project4.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\obj\Debug\Day6Project4.exe
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project4\Day6Project4\obj\Debug\Day6Project4.pdb

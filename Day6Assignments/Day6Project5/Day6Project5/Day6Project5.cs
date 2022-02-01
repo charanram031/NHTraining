@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Day6Project5
 {
+    //Author: Rc
+    /*Purpose:Demonstrating Implicit and Explicit type casting
+     * */
     internal class Program
     {
         static void Main(string[] args)

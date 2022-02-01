@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace Day6Project4
 {
+    //Author: Rc
+    /* Declare List<int> and read 5 values from user and find sum using 
+     * for loop
+     * foreach loop
+     * lambda expression
+     * **/
     internal class Program
     {
         static void Main(string[] args)
         {
+            //List<int> Declaration
             List<int> data = new List<int>();
             int sum1 = 0,sum2 = 0,sum3 = 0;
             int temp;

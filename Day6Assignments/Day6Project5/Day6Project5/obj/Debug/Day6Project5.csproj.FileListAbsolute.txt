@@ -6,3 +6,11 @@ C:\Users\dhwaj\source\repos\Day6Project5\Day6Project5\obj\Debug\Day6Project5.csp
 C:\Users\dhwaj\source\repos\Day6Project5\Day6Project5\obj\Debug\Day6Project5.csproj.CoreCompileInputs.cache
 C:\Users\dhwaj\source\repos\Day6Project5\Day6Project5\obj\Debug\Day6Project5.exe
 C:\Users\dhwaj\source\repos\Day6Project5\Day6Project5\obj\Debug\Day6Project5.pdb
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\bin\Debug\Day6Project5.exe.config
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\bin\Debug\Day6Project5.exe
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\bin\Debug\Day6Project5.pdb
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\obj\Debug\Day6Project5.csproj.AssemblyReference.cache
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\obj\Debug\Day6Project5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\obj\Debug\Day6Project5.csproj.CoreCompileInputs.cache
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\obj\Debug\Day6Project5.exe
+C:\Users\dhwaj\source\repos\Day6Assignments\Day6Project5\Day6Project5\obj\Debug\Day6Project5.pdb

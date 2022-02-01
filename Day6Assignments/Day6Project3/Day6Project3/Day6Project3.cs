@@ -6,11 +6,19 @@ using System.Threading.Tasks;
 
 namespace Day6Project3
 {
+    //Author: Rc
+    /* Declare List<string> and add 5 values and print values using 
+     * for loop
+     * foreach loop
+     * lambda expression
+     * **/
     internal class Program
     {
         static void Main(string[] args)
         {
+            //List<string> Declaration
             List<string> data = new List<string>();
+            //Adding values to List<string>
             data.Add("ram");
             data.Add("chandu");
             data.Add("siva");
