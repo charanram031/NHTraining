@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Day10Project5
 {
     //Author: Rc
-    /*****Purpose:Method Overriding*****/
+    /*****Purpose:Method Overriding using virtual and override *****/
     class A //parent class
     {
         /// <summary>

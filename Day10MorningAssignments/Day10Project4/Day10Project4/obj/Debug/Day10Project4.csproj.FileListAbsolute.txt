@@ -5,3 +5,10 @@ C:\Users\91807\source\repos\Day10Project4\Day10Project4\obj\Debug\Day10Project4.
 C:\Users\91807\source\repos\Day10Project4\Day10Project4\obj\Debug\Day10Project4.csproj.CoreCompileInputs.cache
 C:\Users\91807\source\repos\Day10Project4\Day10Project4\obj\Debug\Day10Project4.exe
 C:\Users\91807\source\repos\Day10Project4\Day10Project4\obj\Debug\Day10Project4.pdb
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\bin\Debug\Day10Project4.exe.config
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\bin\Debug\Day10Project4.exe
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\bin\Debug\Day10Project4.pdb
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\obj\Debug\Day10Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\obj\Debug\Day10Project4.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\obj\Debug\Day10Project4.exe
+C:\Users\91807\source\repos\NHTraining\Day10MorningAssignments\Day10Project4\Day10Project4\obj\Debug\Day10Project4.pdb
