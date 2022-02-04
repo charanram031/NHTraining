@@ -1,0 +1,8 @@
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\bin\Debug\Day10Project6.exe.config
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\bin\Debug\Day10Project6.exe
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\bin\Debug\Day10Project6.pdb
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\obj\Debug\Day10Project6.csproj.AssemblyReference.cache
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\obj\Debug\Day10Project6.csproj.SuggestedBindingRedirects.cache
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\obj\Debug\Day10Project6.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\obj\Debug\Day10Project6.exe
+C:\Users\91807\source\repos\Day10Project6\Day10Project6\obj\Debug\Day10Project6.pdb
