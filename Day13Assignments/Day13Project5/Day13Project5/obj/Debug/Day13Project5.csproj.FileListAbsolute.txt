@@ -1,0 +1,7 @@
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\bin\Debug\Day13Project5.exe.config
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\bin\Debug\Day13Project5.exe
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\bin\Debug\Day13Project5.pdb
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\obj\Debug\Day13Project5.csproj.SuggestedBindingRedirects.cache
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\obj\Debug\Day13Project5.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\obj\Debug\Day13Project5.exe
+C:\Users\91807\source\repos\Day13Project5\Day13Project5\obj\Debug\Day13Project5.pdb
