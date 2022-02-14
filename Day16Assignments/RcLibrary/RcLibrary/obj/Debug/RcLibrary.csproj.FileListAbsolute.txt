@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\RcLibrary\RcLibrary\bin\Debug\RcLibrary.dll
+C:\Users\admin\source\repos\RcLibrary\RcLibrary\bin\Debug\RcLibrary.pdb
+C:\Users\admin\source\repos\RcLibrary\RcLibrary\obj\Debug\RcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RcLibrary\RcLibrary\obj\Debug\RcLibrary.dll
+C:\Users\admin\source\repos\RcLibrary\RcLibrary\obj\Debug\RcLibrary.pdb
+C:\Users\admin\source\repos\RcLibrary\RcLibrary\obj\Debug\RcLibrary.csproj.AssemblyReference.cache

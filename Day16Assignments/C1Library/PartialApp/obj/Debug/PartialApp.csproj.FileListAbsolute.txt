@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\C1Library\PartialApp\obj\Debug\PartialApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\C1Library\PartialApp\obj\Debug\PartialApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C1Library\PartialApp\bin\Debug\PartialApp.exe.config
+C:\Users\admin\source\repos\C1Library\PartialApp\bin\Debug\PartialApp.exe
+C:\Users\admin\source\repos\C1Library\PartialApp\bin\Debug\PartialApp.pdb
+C:\Users\admin\source\repos\C1Library\PartialApp\bin\Debug\C1Library.dll
+C:\Users\admin\source\repos\C1Library\PartialApp\bin\Debug\C1Library.pdb
+C:\Users\admin\source\repos\C1Library\PartialApp\obj\Debug\PartialApp.csproj.CopyComplete
+C:\Users\admin\source\repos\C1Library\PartialApp\obj\Debug\PartialApp.exe
+C:\Users\admin\source\repos\C1Library\PartialApp\obj\Debug\PartialApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\bin\Debug\Day16Project4.exe.config
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\bin\Debug\Day16Project4.exe
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\bin\Debug\Day16Project4.pdb
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\obj\Debug\Day16Project4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\obj\Debug\Day16Project4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\obj\Debug\Day16Project4.exe
+C:\Users\admin\source\repos\Day16Project4\Day16Project4\obj\Debug\Day16Project4.pdb

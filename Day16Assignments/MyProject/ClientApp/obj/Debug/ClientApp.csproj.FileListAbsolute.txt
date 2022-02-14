@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\PublicLibrary.dll
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\RamLibrary.dll
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\PublicLibrary.pdb
+C:\Users\admin\source\repos\MyProject\ClientApp\bin\Debug\RamLibrary.pdb
+C:\Users\admin\source\repos\MyProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\admin\source\repos\MyProject\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\admin\source\repos\MyProject\ClientApp\obj\Debug\ClientApp.pdb

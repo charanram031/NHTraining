@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\MyProject\PublicLibrary\bin\Debug\PublicLibrary.dll
+C:\Users\admin\source\repos\MyProject\PublicLibrary\bin\Debug\PublicLibrary.pdb
+C:\Users\admin\source\repos\MyProject\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyProject\PublicLibrary\obj\Debug\PublicLibrary.dll
+C:\Users\admin\source\repos\MyProject\PublicLibrary\obj\Debug\PublicLibrary.pdb

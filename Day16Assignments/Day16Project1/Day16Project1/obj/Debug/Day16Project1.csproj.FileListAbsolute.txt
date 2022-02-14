@@ -4,3 +4,4 @@ C:\Users\admin\source\repos\NHTraining\Day16Assignments\Day16Project1\Day16Proje
 C:\Users\admin\source\repos\NHTraining\Day16Assignments\Day16Project1\Day16Project1\obj\Debug\Day16Project1.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\NHTraining\Day16Assignments\Day16Project1\Day16Project1\obj\Debug\Day16Project1.exe
 C:\Users\admin\source\repos\NHTraining\Day16Assignments\Day16Project1\Day16Project1\obj\Debug\Day16Project1.pdb
+C:\Users\admin\source\repos\NHTraining\Day16Assignments\Day16Project1\Day16Project1\obj\Debug\Day16Project1.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Class1Library\PartApp\obj\Debug\PartApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Class1Library\PartApp\obj\Debug\PartApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Class1Library\PartApp\bin\Debug\PartApp.exe.config
+C:\Users\admin\source\repos\Class1Library\PartApp\bin\Debug\PartApp.exe
+C:\Users\admin\source\repos\Class1Library\PartApp\bin\Debug\PartApp.pdb
+C:\Users\admin\source\repos\Class1Library\PartApp\bin\Debug\Class1Library.dll
+C:\Users\admin\source\repos\Class1Library\PartApp\bin\Debug\Class1Library.pdb
+C:\Users\admin\source\repos\Class1Library\PartApp\obj\Debug\PartApp.csproj.CopyComplete
+C:\Users\admin\source\repos\Class1Library\PartApp\obj\Debug\PartApp.exe
+C:\Users\admin\source\repos\Class1Library\PartApp\obj\Debug\PartApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\C1Library\C1Library\bin\Debug\C1Library.dll
+C:\Users\admin\source\repos\C1Library\C1Library\bin\Debug\C1Library.pdb
+C:\Users\admin\source\repos\C1Library\C1Library\obj\Debug\C1Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C1Library\C1Library\obj\Debug\C1Library.dll
+C:\Users\admin\source\repos\C1Library\C1Library\obj\Debug\C1Library.pdb

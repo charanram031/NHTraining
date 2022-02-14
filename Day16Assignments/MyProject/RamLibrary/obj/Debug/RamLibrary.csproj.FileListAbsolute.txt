@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\MyProject\RamLibrary\bin\Debug\RamLibrary.dll
+C:\Users\admin\source\repos\MyProject\RamLibrary\bin\Debug\RamLibrary.pdb
+C:\Users\admin\source\repos\MyProject\RamLibrary\obj\Debug\RamLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyProject\RamLibrary\obj\Debug\RamLibrary.dll
+C:\Users\admin\source\repos\MyProject\RamLibrary\obj\Debug\RamLibrary.pdb

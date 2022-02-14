@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day16Project3", "Day16Project3\Day16Project3.csproj", "{9AAC3256-D712-41B0-8B0E-62E0828E0B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RcLibrary", "..\RcLibrary\RcLibrary\RcLibrary.csproj", "{024CA761-04FF-4B53-8E25-E168055ADBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAC3256-D712-41B0-8B0E-62E0828E0B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAC3256-D712-41B0-8B0E-62E0828E0B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAC3256-D712-41B0-8B0E-62E0828E0B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAC3256-D712-41B0-8B0E-62E0828E0B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024CA761-04FF-4B53-8E25-E168055ADBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024CA761-04FF-4B53-8E25-E168055ADBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024CA761-04FF-4B53-8E25-E168055ADBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024CA761-04FF-4B53-8E25-E168055ADBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {474613C7-F2D3-450A-BF45-54BD79AB4939}
+	EndGlobalSection
+EndGlobal

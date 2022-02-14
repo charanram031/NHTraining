@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\PublicLibrary.dll
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\RamLibrary.dll
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\PublicLibrary.pdb
+C:\Users\admin\source\repos\MyProject\WindowsApp\bin\Debug\RamLibrary.pdb
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.csproj.CopyComplete
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\admin\source\repos\MyProject\WindowsApp\obj\Debug\WindowsApp.pdb
