@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Clib1\Cl2\bin\Debug\Cl2.dll
+C:\Users\admin\source\repos\Clib1\Cl2\bin\Debug\Cl2.pdb
+C:\Users\admin\source\repos\Clib1\Cl2\obj\Debug\Cl2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Clib1\Cl2\obj\Debug\Cl2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Clib1\Cl2\obj\Debug\Cl2.dll
+C:\Users\admin\source\repos\Clib1\Cl2\obj\Debug\Cl2.pdb

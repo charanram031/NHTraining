@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\Clib1\Clib1\obj\Debug\Clib1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Clib1\Clib1\bin\Debug\Clib1.dll
+C:\Users\admin\source\repos\Clib1\Clib1\bin\Debug\Clib1.pdb
+C:\Users\admin\source\repos\Clib1\Clib1\obj\Debug\Clib1.dll
+C:\Users\admin\source\repos\Clib1\Clib1\obj\Debug\Clib1.pdb
