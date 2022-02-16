@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\MathsLibrary\WindApp\bin\Debug\WindApp.exe.config
+C:\Users\admin\source\repos\MathsLibrary\WindApp\bin\Debug\WindApp.exe
+C:\Users\admin\source\repos\MathsLibrary\WindApp\bin\Debug\WindApp.pdb
+C:\Users\admin\source\repos\MathsLibrary\WindApp\bin\Debug\MathsLibrary.dll
+C:\Users\admin\source\repos\MathsLibrary\WindApp\bin\Debug\MathsLibrary.pdb
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.Form1.resources
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.Properties.Resources.resources
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.csproj.CopyComplete
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.exe
+C:\Users\admin\source\repos\MathsLibrary\WindApp\obj\Debug\WindApp.pdb

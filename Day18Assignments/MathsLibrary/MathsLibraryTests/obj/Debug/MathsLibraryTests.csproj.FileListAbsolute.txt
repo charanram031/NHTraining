@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibraryTests.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibraryTests.pdb
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibrary.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibrary.pdb
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.csproj.CopyComplete
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.dll
+C:\Users\admin\source\repos\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.pdb

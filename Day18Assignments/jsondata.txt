@@ -1,0 +1,65 @@
+{
+  "Products": {
+    "Product1": {
+      "-Name": "Dairymilk",
+      "-Price": "80",
+      "-Type": "Chocolate",
+      "-self-closing": "true"
+    },
+    "Product2": {
+      "-Name": "5Star",
+      "-Price": "20",
+      "-Type": "Chocolate",
+      "-self-closing": "true"
+    },
+    "Product3": {
+      "-Name": "Bournville",
+      "-Price": "80",
+      "-Type": "Chocolate",
+      "-self-closing": "true"
+    },
+    "Product4": {
+      "-Name": "Kit-kat",
+      "-Price": "10",
+      "-Type": "Chocolate",
+      "-self-closing": "true"
+    },
+    "Product5": {
+      "-Name": "Perk",
+      "-Price": "100",
+      "-Type": "Chocolate",
+      "-self-closing": "true"
+    },
+    "Product6": {
+      "-Name": "Munch",
+      "-Price": "5",
+      "-Type": "Chocolate",
+      "-self-closing": "true"
+    },
+    "Product7": {
+      "-Name": "Bourbon",
+      "-Price": "30",
+      "-Type": "Biscuits",
+      "-self-closing": "true"
+    },
+    "Product8": {
+      "-Name": "HideSeek",
+      "-Price": "50",
+      "-Type": "Biscuits",
+      "-self-closing": "true"
+    },
+    "Product9": {
+      "-Name": "MilkBikis",
+      "-Price": "40",
+      "-Type": "Biscuits",
+      "-self-closing": "true"
+    },
+    "Product10": {
+      "-Name": "Tiger",
+      "-Price": "10",
+      "-Type": "Biscuits",
+      "-self-closing": "true"
+    }
+  },
+  "#omit-xml-declaration": "yes"
+}

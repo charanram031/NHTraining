@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\obj\Debug\ConsApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\obj\Debug\ConsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\bin\Debug\ConsApp.exe.config
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\bin\Debug\ConsApp.exe
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\bin\Debug\ConsApp.pdb
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\bin\Debug\MathsLibrary.dll
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\bin\Debug\MathsLibrary.pdb
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\obj\Debug\ConsApp.csproj.CopyComplete
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\obj\Debug\ConsApp.exe
+C:\Users\admin\source\repos\MathsLibrary\ConsApp\obj\Debug\ConsApp.pdb

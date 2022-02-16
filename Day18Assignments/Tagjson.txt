@@ -1,0 +1,67 @@
+{
+  "Products": {
+    "Product": [
+      {
+        "Name": "Dairymilk",
+        "ID": "1",
+        "Price": "100",
+        "Brand": "Cadbury"
+      },
+      {
+        "Name": "5Star",
+        "ID": "2",
+        "Price": "40",
+        "Brand": "Cadbury"
+      },
+      {
+        "Name": "Snickers",
+        "ID": "3",
+        "Price": "50",
+        "Brand": "Cadbury"
+      },
+      {
+        "Name": "Kit-Kat",
+        "ID": "4",
+        "Price": "25",
+        "Brand": "Cadbury"
+      },
+      {
+        "Name": "Milkybar",
+        "ID": "5",
+        "Price": "20",
+        "Brand": "Cadbury"
+      },
+      {
+        "Name": "BarOne",
+        "ID": "6",
+        "Price": "10",
+        "Brand": "Cadbury"
+      },
+      {
+        "Name": "Tresemme",
+        "ID": "7",
+        "Price": "5",
+        "Brand": "Johnson-n-Johnson"
+      },
+      {
+        "Name": "Meera",
+        "ID": "8",
+        "Price": "3",
+        "Brand": "Johnson-n-Johnson"
+      },
+      {
+        "Name": "Loreal",
+        "ID": "9",
+        "Price": "50",
+        "Brand": "Loreal"
+      },
+      {
+        "Name": "Matrix",
+        "ID": "10",
+        "Price": "400",
+        "Brand": "Matrix"
+      }
+    ]
+  },
+  "#omit-xml-declaration": "yes"
+}
