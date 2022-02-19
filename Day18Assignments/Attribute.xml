@@ -1,0 +1,12 @@
+<Products>
+    <Product1 Name="Dairymilk" Price="80" Type="Chocolate" />
+    <Product2 Name="5Star" Price="20" Type="Chocolate" />
+    <Product3 Name="Bournville" Price="80" Type="Chocolate" />
+    <Product4 Name="Kit-kat" Price="10" Type="Chocolate" />
+    <Product5 Name="Perk" Price="100" Type="Chocolate" />
+    <Product6 Name="Munch" Price="5" Type="Chocolate" />
+    <Product7 Name="Bourbon" Price="30" Type="Biscuits" />
+    <Product8 Name="HideSeek" Price="50" Type="Biscuits"/>
+    <Product9 Name="MilkBikis" Price="40" Type="Biscuits" />
+    <Product10 Name="Tiger" Price="10" Type="Biscuits" />
+</Products>

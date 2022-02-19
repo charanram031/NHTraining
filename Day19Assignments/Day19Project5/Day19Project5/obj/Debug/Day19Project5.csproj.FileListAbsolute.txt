@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\bin\Debug\Day19Project5.exe.config
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\bin\Debug\Day19Project5.exe
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\bin\Debug\Day19Project5.pdb
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\obj\Debug\Day19Project5.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\obj\Debug\Day19Project5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\obj\Debug\Day19Project5.csproj.CopyComplete
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\obj\Debug\Day19Project5.exe
+C:\Users\admin\source\repos\Day19Project5\Day19Project5\obj\Debug\Day19Project5.pdb
