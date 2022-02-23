@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\RcFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\admin\source\repos\RcFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\admin\source\repos\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\admin\source\repos\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+E:\R@m\RcFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+E:\R@m\RcFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+E:\R@m\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+E:\R@m\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+E:\R@m\RcFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
